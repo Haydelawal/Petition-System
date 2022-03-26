@@ -1,0 +1,12 @@
+
+http://localhost/qudus/create%20petition%20form/dist/index.php
+http://localhost/phpmyadmin/sql.php?server=1&db=qudus&table=petition&pos=0
+http://localhost/qudus/admin/index.php
+file:///C:/wamp64/www/qudus/admin/petitions.html
+http://localhost/qudus/admin/petitions.php
+http://localhost/qudus/admin/petitioners.php
+http://localhost/qudus/create%20petition%20form/dist/index.php
+http://localhost/qudus/create%20petition%20form/dist/indexadmin.php
+http://localhost/qudus/admin/updatepetition.php
+http://localhost/qudus/admin/delete.php?deleteid=1
+http://localhost/qudus/admin/update.php

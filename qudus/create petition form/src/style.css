@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: url("https://i.imgur.com/wEDJfYM.jpg") no-repeat center;
+  background-size: cover;
+  height: auto;
+  font-family: 'Roboto';
+}
+
+
+.container{
+  max-width: 800px;
+  height: 600px;
+  background: #fff;
+  margin: 50px auto;
+  box-shadow: 0 0 20px rgba(72,98,85, 0.6);
+  box-sizing: border-box;
+  padding: 40px;
+}
+
+p{
+  text-align: center;
+  letter-spacing: 1px;  
+  font-size: 45px;
+  margin-bottom: 20px;
+  color: #486255;
+}
+
+.input,
+.msg .area{
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  margin-bottom: 25px;
+  border: 2px solid #e9eaea;
+  font-size: 14px;
+  border-radius: 5px;
+  outline: none;
+  transform: all 0.5s ease;
+}
+
+.login .input{
+  width: 48%;
+  float: left;
+  margin-right: 4%;
+}
+
+.login .input:last-child{
+  margin-right: 0;
+}
+
+.msg .area{
+  height: 200px;
+}
+
+.btn{
+  width: 250px;
+  background: #486255;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 5px;
+  margin: 0 auto;
+  color: #fff;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.input:focus,
+.msg .area:focus{
+  border: 2px solid #486255;
+}
+
+::-webkit-input-placeholder{
+  font-family: 'roboto';
+}
+
+
+
+
+
+
+/* youtube link */
+.youtube{
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  width: 160px;
+  text-align: center;
+  padding: 15px 10px;
+  background: #bb0000;
+  border-radius: 5px;
+}
+
+.youtube a{
+  text-decoration: none;
+  color: #fff;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+}
