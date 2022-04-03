@@ -1,0 +1,14 @@
+/// URLS
+
+http://localhost/qudus/admin/index.php  
+// Admin dashboard
+
+http://localhost/qudus/student%20log%20in/dist/index.php?userid=rahman@gmail.com
+// Student User dashboard- password is password
+
+
+http://localhost/qudus/student%20log%20in/dist/login.php
+// student login and sign up
+
+http://localhost/qudus/admin%20login/dist/index.html
+// admin login 

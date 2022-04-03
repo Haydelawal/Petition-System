@@ -1,0 +1,5 @@
+DB name = qudus
+
+those are all the databases and i think we removed the session coz of the error we were facing that time.
+
+:)
