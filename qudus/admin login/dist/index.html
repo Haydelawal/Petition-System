@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Admin Login Form</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+<link rel="stylesheet" href="./style.css">
+<script src="login.js"></script>
+
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="login">
+  <div class="form">
+    <form class="login-form">
+      <span class="material-icons">lock</span>
+      <p>ADMINISTRATIVE LOG IN</p>
+      <input type="text" placeholder="email" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required id="username"/>
+      <input type="password" placeholder="password" required id="password"/>
+      <button type="submit" onclick="validate()">login</button>
+    </form>  
+  </div>
+</div>
+<!-- partial -->
+  
+</body>
+</html>
