@@ -1,3 +1,0 @@
-file:///C:/wamp64/www/qudus/admin%20login/dist/index.html
-http://localhost/qudus/admin/updatepetition.php
-http://localhost/qudus/home/index.html#home
